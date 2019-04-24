@@ -1,0 +1,12 @@
+BeautifulSoup4
+invoke
+markdown
+ipython
+nbconvert
+python-magic
+python-gitlab
+Jinja2
+maya
+urllib3
+requests
+pelican
